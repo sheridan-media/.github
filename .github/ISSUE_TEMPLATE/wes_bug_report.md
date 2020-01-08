@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: 'I AM WES'
-labels: ''
+title: 'Bug - '
+labels: 'bug'
 assignees: ''
 
 ---
