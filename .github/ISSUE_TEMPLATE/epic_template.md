@@ -1,3 +1,12 @@
+---
+name: ''
+about: ''
+title: ''
+labels: 'epic'
+assignees: ''
+
+---
+
 ## Epic Overview
 Brief, high level overview of why we are implementing a new features set/changes/new additions.
 5 sentences or less, please.
