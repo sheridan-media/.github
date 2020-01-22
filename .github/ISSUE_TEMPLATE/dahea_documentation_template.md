@@ -1,16 +1,12 @@
-## Product/Feature Documentation overview
-Brief desciption of how to use documentation, what the documentation will provide
+## Feature
+Product/feature/bug fix that is missing documentation.
 
-Include following sections as applicable:
+## Audience
+Who are you writing this documentation for?
 
-## Implementation overview
-- Step by step breakdown of what to do
+## Issues
+- List of Issues
+- That contain changes being documented
 
-## Component/Feature/API Reference
-- Name
-- How to use
-- Example use code snippet
-- Options 
-
-## Troubleshooting
-- Common issues and their possible solutions
+## Link
+Where this documentation will live.
