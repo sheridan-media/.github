@@ -38,7 +38,7 @@ Slack integration url ( for POSTing updates to )
 
 ## Changes
 - this was changed
-- this other things was also added
+- other things were also added
 
 ## Purpose for changes
 - Because things should change
