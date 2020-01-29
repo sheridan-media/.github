@@ -1,3 +1,12 @@
+---
+name: 'Enhancement'
+about: 'all about enhancements'
+title: ''
+labels: 'enhancement'
+assignees: ''
+---
+
+
 ## Context
 Briefly outline any useful info about the project/repo/app that helps contextualize this enhancement.
 
