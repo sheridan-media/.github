@@ -1,3 +1,12 @@
+---
+name: Documentation
+about: What are you documenting?
+title: 'Documentation - '
+labels: 'documentation'
+assignees: ''
+
+---
+
 ## Feature
 Product/feature/bug fix that is missing documentation.
 
