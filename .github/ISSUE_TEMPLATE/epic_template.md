@@ -1,6 +1,6 @@
 ---
-name: 'This is an Epic Name'
-about: 'This is an Epic About'
+name: 'Epic'
+about: 'Template for an epic'
 title: ''
 labels: 'epic'
 assignees: ''
